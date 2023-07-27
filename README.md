@@ -12,8 +12,8 @@
 
 ### Tecnologia 
 As seguintes ferramentas foram utilizadas na construção do projeto:
-- [React Native]([https://pt-br.reactjs.org/](https://reactnative.dev/))
-- [Expo][([https://pt-br.reactjs.org/](https://reactnative.dev/))]
+- [React Native](https://reactnative.dev/)
+- [Expo](https://reactnative.dev/)
 
 ### Deploy 
 🔗🚀

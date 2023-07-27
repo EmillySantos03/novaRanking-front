@@ -1,4 +1,4 @@
-<h1>Potshop Aplication</h1>
+<h1>Nova Ranking Aplication</h1>
 
 <h1 align="center">🔗 React</h1>
 <p align="center">🚀 lib para construir interfaces do usuário com componentes reutilizáveis</p>
